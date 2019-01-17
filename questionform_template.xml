@@ -20,7 +20,8 @@
         <AnswerSpecification>
             <FreeTextAnswer>
                 <Constraints>
-                    <Length minLength="3" maxLength="100"/>
+                    <Length minLength="24" maxLength="24"/>
+                    <AnswerFormatRegex regex="^[a-f0-9]*$" errorText="This is not a valid code."/>
                 </Constraints>
                 <NumberOfLinesSuggestion>1</NumberOfLinesSuggestion>
             </FreeTextAnswer>

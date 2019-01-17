@@ -7,3 +7,6 @@ Requires Python3 and the following packages:
 - beautiful soup 4
 
 Before using, you will have to set up an authentication key to use the Amazon API and include it in a credentials file. See here: https://aws.amazon.com/developers/getting-started/python/
+
+Please run the clean script before committing a change (this removes metadata
+that gets created when you run the notebook).
