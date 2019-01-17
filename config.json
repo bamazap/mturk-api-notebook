@@ -1,15 +1,16 @@
 {
     "hitCreation": {
         "production": false,
-        "taskUrl": "https://enigmatic-everglades-39931.herokuapp.com/natural_test",
-        "title": "ZoomMaps Experiment: Natural Images", 
-        "description": "You will be presented with a series of images. Please study each one closely, zooming in as necessary. This task must be completed on your mobile device.",
-        "numTasks": 1, 
+        "taskUrl": "https://viz-title-influence.herokuapp.com/ui/",
+        "title": "HIT Title", 
+        "description": "HIT description",
+        "numTasks": 5, 
         "numAssignments": 10,
         "rewardAmount": "0.00",
-        "keywords": "mobile, image, zoom, experiment",
+        "keywords": "put, some, keywords, here",
         "duration": 12000,
-        "lifetime": 16400
+        "lifetime": 16400,
+        "email": "zoya@mit.edu"
     }, 
     "variants": []
 }
